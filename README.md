@@ -20,7 +20,7 @@ The project consists of the following tables:
 - Order_Items
 ## 🗺️ Entity Relationship Diagram
 
-![ER Diagram](Ecommerce Sales Database.png)
+<img src="Ecommerce%20Sales%20Database.png" alt="ER Diagram" width="800">
 
 ---
 
