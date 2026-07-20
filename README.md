@@ -18,6 +18,9 @@ The project consists of the following tables:
 - Customers
 - Orders
 - Order_Items
+## 🗺️ Entity Relationship Diagram
+
+![ER Diagram](Ecommerce Sales Database.png)
 
 ---
 
