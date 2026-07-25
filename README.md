@@ -1,6 +1,6 @@
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design a relational database
 - Perform sales analysis using SQL
@@ -9,7 +9,7 @@
 
 ---
 
-## 🗂️ Database Schema
+## Database Schema
 
 The project consists of the following tables:
 
@@ -18,13 +18,13 @@ The project consists of the following tables:
 - Customers
 - Orders
 - Order_Items
-## 🗺️ Entity Relationship Diagram
+## Entity Relationship Diagram
 
 <img src="Ecommerce%20Sales%20Database.png" alt="ER Diagram" width="800">
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 - Database Design
 - SQL DDL & DML
@@ -39,7 +39,7 @@ The project consists of the following tables:
 
 ---
 
-## 📊 Business Questions Solved
+## Business Questions Solved
 
 - What is the total revenue?
 - Which products generate the highest sales?
@@ -53,7 +53,7 @@ The project consists of the following tables:
 
 ---
 
-## 💻 Tools Used
+## Tools Used
 
 - MySQL
 - SQL
@@ -62,7 +62,7 @@ The project consists of the following tables:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ecommerce-product-sales-sql/
@@ -77,7 +77,7 @@ ecommerce-product-sales-sql/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add Power BI Dashboard
 - Add Interactive Sales Dashboard
@@ -86,8 +86,6 @@ ecommerce-product-sales-sql/
 
 ---
 
-## 👤 Author
-
-**Naveen Kumar**
+## **Naveen Kumar**
 
 GitHub: https://github.com/Naveennive
